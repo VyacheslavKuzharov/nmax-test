@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["vyacheslav.kuzharov@gmail.com"]
 
   spec.summary       = "A gem for extract n largest integers encountered in the received text data"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/VyacheslavKuzharov/nmax-test"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
