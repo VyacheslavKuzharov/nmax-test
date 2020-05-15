@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'nmax'
+
+puts Nmax::App.new(STDIN, ARGV[0]).call
