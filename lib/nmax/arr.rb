@@ -11,7 +11,7 @@ module Nmax
     def find_max_numbers(num)
       return 'No numbers present in current stream.' if numbers.empty?
 
-      numbers.uniq!.sort.last(num)
+      numbers.uniq.sort.last(num)
     end
   end
 end
