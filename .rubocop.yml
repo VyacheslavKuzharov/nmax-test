@@ -11,6 +11,7 @@ Metrics/BlockLength:
 Layout/LineLength:
   Exclude:
     - 'nmax.gemspec'
+    - "spec/**/*.rb"
 
 Style/Documentation:
   Enabled: false
